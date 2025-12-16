@@ -1,13 +1,22 @@
 {
   "hero": {
-    "headline": "L’avvertimento di Elon Musk sull’IA avvia una nuova iniziativa sostenuta dalle banche in Francia che consente al pubblico di generare fino a €20.000 al mese",
-    "subheadline": "Un programma sostenuto dalle banche apre al pubblico opportunità di reddito assistite dall’IA, con un potenziale fino a €20.000 al mese."
+    "headline": "L'avvertimento di Elon Musk sull'IA avvia una nuova iniziativa sostenuta dalle banche in Francia",
+    "subheadline": "Le difficoltà economiche degli ultimi anni — aumento dei prezzi, inflazione e costo della vita — hanno spinto molti francesi a cercare nuove fonti di reddito. Oggi, i cittadini francesi hanno finalmente uno strumento concreto per riprendere il controllo della loro stabilità finanziaria."
   },
   "article": {
     "lead": "A seguito dei recenti avvertimenti di Elon Musk sul ruolo crescente dell’intelligenza artificiale nei sistemi finanziari globali, una nuova iniziativa commerciale sostenuta dalle principali istituzioni finanziarie francesi ha attirato notevole attenzione. Il programma è progettato per dare al pubblico accesso a opportunità di reddito assistite dall’IA con un potenziale di guadagno fino a €20.000 al mese.",
     "p2": "L’iniziativa mira a fornire ai cittadini l’accesso a opportunità di generazione di reddito assistite dall’IA precedentemente riservate agli esperti. Offre una guida strutturata, sostenuta dalle banche, ai partecipanti di tutti i giorni.",
-    "p3": "Le recenti iniziative del governo francese e della Banque de France mirano a incoraggiare l’imprenditorialità e l’innovazione, offrendo ai cittadini un accesso strutturato a sistemi digitali moderni.",
-    "p4": "Secondo fonti ufficiali, questa iniziativa si concentra sul consentire agli individui di accedere a sistemi automatizzati che supportano il processo decisionale finanziario moderno. L’obiettivo è semplificare la partecipazione e rimuovere le barriere tradizionali tipicamente associate ad ambienti finanziari complessi.",
+    "p3": "Le recenti iniziative del governo francese e della Banque de France mirano a incoraggiare l'imprenditorialità e l'innovazione, offrendo ai cittadini un accesso strutturato a sistemi digitali moderni.",
+    "systemObjectiveTitle": "Obiettivo e test del sistema",
+    "systemObjectiveIntro": "Il loro obiettivo era semplice: creare un sistema in grado di generare un reddito integrativo affidabile e misurabile conforme agli standard finanziari francesi. I primi test — condotti con diverse migliaia di utenti volontari — hanno mostrato risultati coerenti:",
+    "systemTestResults": [
+      "reddito regolare",
+      "funzionamento completamente automatizzato",
+      "interfaccia trasparente e controllata",
+      "nessuna competenza tecnica richiesta"
+    ],
+    "systemVerification": "Le prestazioni del sistema sono state verificate da analisti indipendenti e tutte le operazioni passano attraverso istituzioni finanziarie approvate in Francia. Questa soluzione tecnologica non è una promessa; è una soluzione testata, osservata e documentata. Le registrazioni rimangono aperte finché la capacità tecnica lo consente.",
+    "p4": "Secondo fonti ufficiali, questa iniziativa si concentra sul consentire agli individui di accedere a sistemi automatizzati che supportano il processo decisionale finanziario moderno. L'obiettivo è semplificare la partecipazione e rimuovere le barriere tradizionali tipicamente associate ad ambienti finanziari complessi.",
     "highlightsTitle": "Punti chiave",
     "highlights": [
       "Quadro sicuro e regolamentato",
@@ -15,8 +24,20 @@
       "Modello operativo trasparente",
       "Sostenuto da istituzioni pubbliche"
     ],
+    "projectHistoryTitle": "Storia e concetto del progetto",
+    "projectHistoryBody": "I progettisti del progetto hanno lavorato con un team di ingegneri, ricercatori di economia applicata e analisti indipendenti per creare un sistema semplice e misurabile. L'obiettivo era chiaro: consentire ai cittadini di investire in Francia all'interno di un quadro affidabile, tecnicamente supervisionato e basato su dati reali piuttosto che su promesse. Ogni funzionalità della piattaforma è stata testata, verificata e convalidata da specialisti in calcolo algoritmico e gestione del rischio. Il risultato è uno strumento trasparente e accessibile, progettato per rafforzare l'economia nazionale offrendo a tutti un modo per generare un reddito integrativo reale. Il deposito minimo è fissato a €250, un importo che, secondo gli analisti, corrisponde alla spesa settimanale media di un cittadino francese per bisogni non essenziali",
     "commentaryTitle": "Commento degli esperti",
     "commentaryBody": "Gli esperti finanziari sottolineano che il programma è progettato per essere inclusivo ed educativo. I partecipanti ricevono onboarding passo-passo e assistenza continua.",
+    "resultsTitle": "Risultati e vantaggi",
+    "resultsIntro": "Dal suo lancio, la piattaforma ha già riunito più di 38.000 partecipanti in tutta la Francia. Per molti, ha rappresentato un'opportunità per rimborsare i loro prestiti, finanziare l'istruzione dei loro figli, o semplicemente riconquistare un senso di tranquillità finanziaria.",
+    "resultsAdvantagesTitle": "Cinque vantaggi principali della piattaforma",
+    "resultsAdvantages": [
+      "Un reddito integrativo stabile senza dover cambiare lavoro.",
+      "Supporto personalizzato da un consulente finanziario dedicato.",
+      "Piena trasparenza e sicurezza completa dei depositi.",
+      "La possibilità di iniziare con un deposito minimo, accessibile a tutti.",
+      "Un progetto sostenuto dal governo e dalla Banque de France."
+    ],
     "projectTitle": "Contesto del progetto",
     "projectBody": "Il programma è nato da una ricerca approfondita sulla trasformazione digitale e la resilienza economica. Riflette l’impegno della Francia per l’innovazione mantenendo un rigoroso controllo normativo.",
     "howTitle": "Come funziona",

@@ -1,13 +1,22 @@
 {
   "hero": {
-    "headline": "L’avertissement d’Elon Musk sur l’IA déclenche une nouvelle initiative soutenue par les banques en France, permettant au public de générer jusqu’à 20 000 € par mois",
-    "subheadline": "Un programme soutenu par des banques ouvre au public des opportunités de revenus assistées par l’IA, avec un potentiel pouvant atteindre 20 000 € par mois."
+    "headline": "L'avertissement d'Elon Musk sur l'IA déclenche une nouvelle initiative soutenue par les banques en France",
+    "subheadline": "Les difficultés économiques des dernières années — hausse des prix, inflation et coût de la vie — ont poussé de nombreux Français à chercher de nouvelles sources de revenus. Aujourd'hui, les citoyens français disposent enfin d'un outil concret pour reprendre le contrôle de leur stabilité financière."
   },
   "article": {
     "lead": "À la suite des récents avertissements d’Elon Musk sur le rôle croissant de l’intelligence artificielle dans les systèmes financiers mondiaux, une nouvelle initiative soutenue par les principales institutions financières françaises suscite une attention significative. Le programme est conçu pour offrir au public un accès à des opportunités de revenus assistées par l’IA, avec un potentiel de gains allant jusqu’à 20 000 € par mois.",
     "p2": "L’initiative vise à offrir aux citoyens l’accès à des opportunités de génération de revenus assistées par l’IA auparavant réservées aux experts. Elle apporte un accompagnement structuré et soutenu par les banques aux participants du quotidien.",
-    "p3": "Les initiatives récentes du gouvernement français et de la Banque de France visent à encourager l’entrepreneuriat et l’innovation en offrant aux citoyens un accès structuré aux systèmes numériques modernes.",
-    "p4": "Selon des sources officielles, cette initiative se concentre sur la capacité des individus à accéder à des systèmes automatisés qui soutiennent la prise de décision financière moderne. L’objectif est de simplifier la participation et de supprimer les barrières traditionnelles généralement associées aux environnements financiers complexes.",
+    "p3": "Les initiatives récentes du gouvernement français et de la Banque de France visent à encourager l'entrepreneuriat et l'innovation en offrant aux citoyens un accès structuré aux systèmes numériques modernes.",
+    "systemObjectiveTitle": "Objectif et tests du système",
+    "systemObjectiveIntro": "Leur objectif était simple : créer un système capable de générer un revenu complémentaire fiable et mesurable conforme aux normes financières françaises. Les premiers tests — menés avec plusieurs milliers d'utilisateurs volontaires — ont montré des résultats cohérents :",
+    "systemTestResults": [
+      "revenu régulier",
+      "fonctionnement entièrement automatisé",
+      "interface transparente et contrôlée",
+      "aucune compétence technique requise"
+    ],
+    "systemVerification": "Les performances du système ont été vérifiées par des analystes indépendants, et toutes les opérations passent par des institutions financières approuvées en France. Cette solution technologique n'est pas une promesse ; c'est une solution testée, observée et documentée. Les inscriptions restent ouvertes tant que la capacité technique le permet.",
+    "p4": "Selon des sources officielles, cette initiative se concentre sur la capacité des individus à accéder à des systèmes automatisés qui soutiennent la prise de décision financière moderne. L'objectif est de simplifier la participation et de supprimer les barrières traditionnelles généralement associées aux environnements financiers complexes.",
     "highlightsTitle": "Points clés",
     "highlights": [
       "Cadre sécurisé et réglementé",
@@ -15,8 +24,20 @@
       "Modèle opérationnel transparent",
       "Soutenu par des institutions publiques"
     ],
-    "commentaryTitle": "Commentaire d’expert",
-    "commentaryBody": "Les experts financiers soulignent que le programme est conçu pour être inclusif et pédagogique. Les participants bénéficient d’un accompagnement pas à pas et d’une assistance continue.",
+    "projectHistoryTitle": "Historique et concept du projet",
+    "projectHistoryBody": "Les concepteurs du projet ont travaillé avec une équipe d'ingénieurs, de chercheurs en économie appliquée et d'analystes indépendants pour créer un système simple et mesurable. L'objectif était clair : permettre aux citoyens d'investir en France dans un cadre fiable, techniquement supervisé et basé sur des données réelles plutôt que sur des promesses. Chaque fonctionnalité de la plateforme a été testée, vérifiée et validée par des spécialistes en calcul algorithmique et en gestion des risques. Le résultat est un outil transparent et accessible, conçu pour renforcer l'économie nationale tout en offrant à chacun un moyen de générer un revenu complémentaire réel. Le dépôt minimum est fixé à 250 €, un montant qui, selon les analystes, correspond aux dépenses hebdomadaires moyennes d'un citoyen français pour les besoins non essentiels",
+    "commentaryTitle": "Commentaire d'expert",
+    "commentaryBody": "Les experts financiers soulignent que le programme est conçu pour être inclusif et pédagogique. Les participants bénéficient d'un accompagnement pas à pas et d'une assistance continue.",
+    "resultsTitle": "Résultats et avantages",
+    "resultsIntro": "Depuis son lancement, la plateforme a déjà rassemblé plus de 38 000 participants à travers la France. Pour beaucoup, elle a représenté une opportunité de rembourser leurs prêts, de financer l'éducation de leurs enfants, ou simplement de retrouver un sentiment de tranquillité financière.",
+    "resultsAdvantagesTitle": "Cinq avantages principaux de la plateforme",
+    "resultsAdvantages": [
+      "Un revenu complémentaire stable sans avoir à changer d'emploi.",
+      "Un accompagnement personnalisé d'un conseiller financier dédié.",
+      "Une transparence totale et une sécurité complète des dépôts.",
+      "La possibilité de commencer avec un dépôt minimal, accessible à tous.",
+      "Un projet soutenu par le gouvernement et la Banque de France."
+    ],
     "projectTitle": "Contexte du projet",
     "projectBody": "Le programme est issu de recherches approfondies sur la transformation numérique et la résilience économique. Il reflète l’engagement de la France en faveur de l’innovation tout en maintenant une supervision réglementaire stricte.",
     "howTitle": "Fonctionnement",

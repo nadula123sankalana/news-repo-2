@@ -1,12 +1,21 @@
 {
   "hero": {
-    "headline": "Elon Musk’s AI Warning Triggers New Bank-Supported Initiative in France Allowing Public Access to Generate Up to €20,000 Per Month",
-    "subheadline": "A bank-backed program opens AI-assisted income opportunities to the public, with the potential to reach €20,000 per month."
+    "headline": "Elon Musk's AI Warning Triggers New Bank-Supported Initiative in France",
+    "subheadline": "The economic difficulties of recent years — rising prices, inflation, and the cost of living — have pushed many French people to look for new sources of income. Today, French citizens finally have a concrete tool to regain control over their financial stability."
   },
   "article": {
     "lead": "Following recent warnings from Elon Musk about the accelerating role of artificial intelligence in global financial systems, a new business initiative supported by leading French financial institutions has gained significant attention. The program is designed to give the public access to AI-assisted income opportunities with earning potential up to €20,000 per month.",
     "p2": "The initiative aims to provide citizens with access to AI-assisted income-generation opportunities previously reserved for experts. It brings structured, bank-supported guidance to everyday participants.",
     "p3": "Recent initiatives by the French government and the Bank of France aim to encourage entrepreneurship and innovation by giving citizens structured access to modern digital systems.",
+    "systemObjectiveTitle": "System objective and testing",
+    "systemObjectiveIntro": "Their objective was simple: to create a system capable of generating reliable, measurable supplementary income that complies with French financial standards. The first tests — conducted with several thousand volunteer users — showed consistent results:",
+    "systemTestResults": [
+      "regular income",
+      "fully automated operation",
+      "a transparent and controlled interface",
+      "no technical skills required"
+    ],
+    "systemVerification": "The system's performance has been verified by independent analysts, and all operations go through financial institutions approved in France. This technological solution is not a promise; it is a tested, observed, and documented solution. Registrations remain open as long as technical capacity allows.",
     "p4": "According to official sources, this initiative focuses on enabling individuals to access automated systems that support modern financial decision-making. The objective is to simplify participation and remove traditional barriers typically associated with complex financial environments.",
     "highlightsTitle": "Key highlights",
     "highlights": [
@@ -15,8 +24,20 @@
       "Transparent operational model",
       "Backed by public institutions"
     ],
+    "projectHistoryTitle": "Project history and concept",
+    "projectHistoryBody": "The project's designers worked with a team of engineers, applied economics researchers, and independent analysts to create a simple and measurable system. The objective was clear: to allow citizens to invest in France within a reliable framework, technically supervised, and based on real data rather than promises. Each feature of the platform was tested, verified, and validated by specialists in algorithmic computation and risk management. The result is a transparent and accessible tool, designed to strengthen the national economy while offering everyone a way to generate real supplementary income. The minimum deposit is set at €250, an amount which, according to analysts, corresponds to the average weekly spending of a French citizen on non-essential needs",
     "commentaryTitle": "Expert commentary",
     "commentaryBody": "Financial experts emphasize that the program is designed to be inclusive and educational. Participants receive step-by-step onboarding and ongoing assistance.",
+    "resultsTitle": "Results and benefits",
+    "resultsIntro": "Since its launch, the platform has already brought together more than 38,000 participants across France. For many, it has represented an opportunity to repay their loans, finance their children's education, or simply regain a sense of financial peace of mind.",
+    "resultsAdvantagesTitle": "Five main advantages of the platform",
+    "resultsAdvantages": [
+      "A stable supplementary income without having to change jobs.",
+      "Personalized support from a dedicated financial advisor.",
+      "Full transparency and complete security of deposits.",
+      "The ability to start with a minimal deposit, accessible to everyone.",
+      "A project supported by the government and the Banque de France."
+    ],
     "projectTitle": "Project background",
     "projectBody": "The program emerged from extensive research into digital transformation and economic resilience. It reflects France’s commitment to innovation while maintaining strict regulatory oversight.",
     "howTitle": "How it works",
