@@ -35,7 +35,7 @@ const Index = () => {
         
         {/* Featured Image/Video */}
         <VideoPlaceholder 
-          imageUrl="/elone.jpg"
+          imageUrl="/mask.png"
           caption="Artificial intelligence and financial systems: a revolution in progress — Credit: INFO Business"
         />
         
