@@ -14,9 +14,15 @@ export function ArticleContent() {
         {t("article.lead")}
       </p>
 
-      <p>{t("article.p2")}</p>
+      <p>
+        {t("article.p2Before")}
+        <span className="italic">{t("article.p2Italic")}</span>
+        {t("article.p2After")}
+      </p>
 
       <p>{t("article.p3")}</p>
+
+      <p>{t("article.p4")}</p>
 
       <h2 className="font-headline text-2xl font-bold text-news-headline mt-10 mb-4">
         {t("article.systemObjectiveTitle")}
@@ -37,7 +43,7 @@ export function ArticleContent() {
 
       <p>{t("article.systemVerification")}</p>
 
-      <p>{t("article.p4")}</p>
+      <p>{t("article.p5")}</p>
 
       <h2 className="font-headline text-2xl font-bold text-news-headline mt-10 mb-4">
         {t("article.highlightsTitle")}
