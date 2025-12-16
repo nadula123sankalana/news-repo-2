@@ -1,0 +1,198 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+
+@layer base {
+  :root {
+    /* Brand Colors - converted to HSL */
+    /* #04e6ac = 160 97% 46% */
+    /* #ffffff = 0 0% 100% */
+    /* #011d4b = 217 97% 15% */
+    
+    --background: 0 0% 100%;
+    --foreground: 217 97% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 217 97% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 217 97% 15%;
+
+    --primary: 160 97% 46%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 217 20% 95%;
+    --secondary-foreground: 217 97% 15%;
+
+    --muted: 217 20% 96%;
+    --muted-foreground: 217 30% 45%;
+
+    --accent: 160 97% 46%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 217 20% 88%;
+    --input: 217 20% 88%;
+    --ring: 160 97% 46%;
+
+    --radius: 0.25rem;
+
+    /* News-specific tokens */
+    --news-headline: 217 97% 15%;
+    --news-subhead: 217 30% 35%;
+    --news-body: 217 20% 25%;
+    --news-caption: 217 20% 50%;
+    --news-divider: 217 20% 88%;
+    --news-sidebar-bg: 217 20% 97%;
+    --news-nav-bg: 217 97% 15%;
+    --news-nav-text: 0 0% 100%;
+    --news-tag-bg: 160 97% 46%;
+    --news-tag-text: 0 0% 100%;
+    --news-link: 160 97% 40%;
+
+    /* Typography */
+    --font-headline: 'Merriweather', Georgia, serif;
+    --font-body: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 217 30% 26%;
+    --sidebar-primary: 217 97% 15%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 217 20% 96%;
+    --sidebar-accent-foreground: 217 97% 15%;
+    --sidebar-border: 217 20% 91%;
+    --sidebar-ring: 160 97% 46%;
+  }
+
+  .dark {
+    --background: 217 97% 10%;
+    --foreground: 0 0% 98%;
+    --card: 217 97% 12%;
+    --card-foreground: 0 0% 98%;
+    --popover: 217 97% 12%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 160 97% 46%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 217 30% 18%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 217 30% 18%;
+    --muted-foreground: 217 20% 65%;
+    --accent: 160 97% 46%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 217 30% 20%;
+    --input: 217 30% 20%;
+    --ring: 160 97% 46%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-headline);
+  }
+}
+
+@layer components {
+  .news-headline {
+    font-family: var(--font-headline);
+    /* Use custom line-height to increase vertical spacing between lines */
+    @apply text-news-headline font-bold tracking-tight;
+    line-height: 1.35;
+  }
+
+  .news-subhead {
+    font-family: var(--font-body);
+    @apply text-news-subhead font-medium;
+  }
+
+  .news-body {
+    font-family: var(--font-body);
+    @apply text-news-body leading-relaxed;
+  }
+
+  .news-caption {
+    font-family: var(--font-body);
+    @apply text-news-caption text-sm;
+  }
+
+  .news-tag {
+    @apply inline-block bg-news-tag-bg text-news-tag-text text-xs font-semibold uppercase tracking-wider px-2 py-1;
+  }
+
+  .news-nav-item {
+    @apply text-sm font-medium transition-colors hover:text-primary;
+  }
+
+  .news-section-title {
+    font-family: var(--font-headline);
+    @apply text-lg font-bold text-news-headline border-b-2 border-primary pb-2 mb-4;
+  }
+
+  .news-link {
+    @apply text-news-link hover:underline;
+  }
+
+  .news-divider {
+    @apply border-t border-news-divider;
+  }
+}
+
+@layer utilities {
+  .text-news-headline {
+    color: hsl(var(--news-headline));
+  }
+
+  .text-news-subhead {
+    color: hsl(var(--news-subhead));
+  }
+
+  .text-news-body {
+    color: hsl(var(--news-body));
+  }
+
+  .text-news-caption {
+    color: hsl(var(--news-caption));
+  }
+
+  .bg-news-sidebar {
+    background-color: hsl(var(--news-sidebar-bg));
+  }
+
+  .bg-news-nav {
+    background-color: hsl(var(--news-nav-bg));
+  }
+
+  .text-news-nav {
+    color: hsl(var(--news-nav-text));
+  }
+
+  .bg-news-tag-bg {
+    background-color: hsl(var(--news-tag-bg));
+  }
+
+  .text-news-tag-text {
+    color: hsl(var(--news-tag-text));
+  }
+
+  .text-news-link {
+    color: hsl(var(--news-link));
+  }
+
+  .border-news-divider {
+    border-color: hsl(var(--news-divider));
+  }
+}
